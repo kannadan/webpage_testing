@@ -1,0 +1,65 @@
+.firstp{color:red;
+    font-family:arial;
+    line-height:150%;
+    font-style:italic;
+}
+.secondp{color:#ff0000}
+
+
+
+#pepe{border: 2px, solid red;
+        position: relative;
+        left: 50%;
+        }
+
+#cover{
+    position:relative;
+    width: 100%;
+    height: auto;
+}
+#jeje{
+    border: 2px solid red;
+    position:relative;
+    width: 300px;
+    left: 40px;
+}
+#main {
+    position:relative;
+    width:fit_content;
+    height:202px;
+}
+#duck {
+    position:absolute;
+    width:auto;
+    height:fit_content;
+}
+#doge {
+    position:absolute;
+    width:fit_content;
+    height: auto;
+    left:330px;
+}
+
+
+body {background-image: url(Rubber_ducks.jpg);
+        background-repeat: no-repeat;
+        background-position: 50%;
+        background-size: cover;
+
+        }
+h1 {color:red;
+    text-align:center;
+    background-color: pink;
+    padding: 15px;
+    border-color: red;
+    border-width: 3px;
+    border-style: dashed;
+    margin-left: 35%;
+    margin-right: 35%;
+
+}
+ul {
+    list-style-type: circle;
+    border: 1px solid red;
+
+}
